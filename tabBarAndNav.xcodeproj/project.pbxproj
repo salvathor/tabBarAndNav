@@ -12,7 +12,6 @@
 		CD1B1150281C0BCE00B2C197 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD1B114F281C0BCE00B2C197 /* Assets.xcassets */; };
 		CD1B1153281C0BCE00B2C197 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD1B1151281C0BCE00B2C197 /* LaunchScreen.storyboard */; };
 		CD1B115C281C103700B2C197 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD1B115A281C103700B2C197 /* TabBarController.swift */; };
-		CD1B115D281C103700B2C197 /* TabBarController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD1B115B281C103700B2C197 /* TabBarController.xib */; };
 		CD1B1160281C127E00B2C197 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD1B115E281C127E00B2C197 /* MenuViewController.swift */; };
 		CD1B1161281C127E00B2C197 /* MenuViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD1B115F281C127E00B2C197 /* MenuViewController.xib */; };
 		CD1B1164281C129500B2C197 /* ConfiguracionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD1B1162281C129500B2C197 /* ConfiguracionViewController.swift */; };
@@ -32,7 +31,6 @@
 		CD1B1152281C0BCE00B2C197 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CD1B1154281C0BCE00B2C197 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CD1B115A281C103700B2C197 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
-		CD1B115B281C103700B2C197 /* TabBarController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TabBarController.xib; sourceTree = "<group>"; };
 		CD1B115E281C127E00B2C197 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		CD1B115F281C127E00B2C197 /* MenuViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MenuViewController.xib; sourceTree = "<group>"; };
 		CD1B1162281C129500B2C197 /* ConfiguracionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfiguracionViewController.swift; sourceTree = "<group>"; };
@@ -86,7 +84,6 @@
 				CD1B1162281C129500B2C197 /* ConfiguracionViewController.swift */,
 				CD1B1163281C129500B2C197 /* ConfiguracionViewController.xib */,
 				CD1B115F281C127E00B2C197 /* MenuViewController.xib */,
-				CD1B115B281C103700B2C197 /* TabBarController.xib */,
 				CD1B114F281C0BCE00B2C197 /* Assets.xcassets */,
 				CD1B1151281C0BCE00B2C197 /* LaunchScreen.storyboard */,
 				CD1B1154281C0BCE00B2C197 /* Info.plist */,
@@ -155,7 +152,6 @@
 				CD1B1165281C129500B2C197 /* ConfiguracionViewController.xib in Resources */,
 				CD1B116F281C16B500B2C197 /* TechNewsViewController.xib in Resources */,
 				CD1B1153281C0BCE00B2C197 /* LaunchScreen.storyboard in Resources */,
-				CD1B115D281C103700B2C197 /* TabBarController.xib in Resources */,
 				CD1B1150281C0BCE00B2C197 /* Assets.xcassets in Resources */,
 				CD1B1161281C127E00B2C197 /* MenuViewController.xib in Resources */,
 				CD1B116B281C157200B2C197 /* NewsViewController.xib in Resources */,
